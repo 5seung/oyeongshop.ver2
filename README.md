@@ -40,6 +40,9 @@
 
 
 ## 🚀 참여자 :amolli(아몰리)
+|<img src="#" width="120" height="160"/><br/>BE 오승언 <br/><a href="#">GitHub</a>|<img src="#" width="120" height="160"/><br/>BE 강정환 <br/> <a href="#">GitHub</a>|<img src="#" width="120" height="160"/><br/>BE 김나영 <br/><a href="#">GitHub</a>|<img src="#" width="120" height="160"/><br/>BE 김윤설 <br/><a href="#">GitHub</a>|<img src="#" width="120" height="160"/><br/>BE 박형배 <br/><a href="#">GitHub</a>|
+|:---:|:---:|:---:|:---:|:---:|
+| <strong>주요 역할</strong> <br> &middot; 회원가입 및 로그인|<strong>주요 역할</strong> <br> &middot; 메인 서비스 기능| <strong>주요 역할</strong> <br> &middot; 메인 서비스 기능 <br/> &middot; 프론트 디자인 | <strong>주요 역할</strong> <br/> &middot; 주문 페이지 기능 <br/> &middot; 관리자 기능| <strong>주요 역할</strong> <br/> &middot; 장바구니 페이지 기능 |
 
 
 
