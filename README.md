@@ -1,8 +1,14 @@
 ## **👗oyeongshop.ver2 (오영샵)**
-- 심플하고 직관적으로 상품을 보고 구매 할 수 있도록 설계한 여성의류 쇼핑몰입니다.
+- 심플하고 직관적으로 상품을 보고 구매 할 수 있도록 설계한 여성의류 쇼핑몰 프로젝트입니다.
+- <a href="#>oyeongshop.ver1</a>에서 구현하지 못한 기능을 추가하였습니다.
 - 개발 기간 : 23.10.23 ~ 23.11.27<br>
-- 참여 인원 : 5명<br>
+- 참여 인원 : 5명 (amolli: 아몰리)<br>
+      
+    |<img src="#" width="140" height="160"/><br/>BE 오승언 (팀장) <br/><a href="#">GitHub</a>|<img src="#" width="140" height="160"/><br/>BE 강정환 <br/> <a href="#">GitHub</a>|<img src="#" width="140" height="160"/><br/>BE 김나영 <br/><a href="#">GitHub</a>|<img src="#" width="140" height="160"/><br/>BE 김윤설 <br/><a href="#">GitHub</a>|<img src="#" width="140" height="160"/><br/>BE 박형배 <br/><a href="#">GitHub</a>|
+    |:---:|:---:|:---:|:---:|:---:|
+    | <strong>주요 역할</strong> <br> &middot; 전체 프로젝트 관리 <br> &middot; 회원 및 결제 파트 <br> &middot; 프론트 디자인|<strong>주요 역할</strong> <br> &middot; 상품 파트 | <strong>주요 역할</strong> <br> &middot; 리뷰 및 위시리스트 파트 <br/> &middot; 프론트 디자인 | <strong>주요 역할</strong> <br/> &middot; 주문 파트 | <strong>주요 역할</strong> <br/> &middot; 장바구니 파트 |
 
+<br>
 
 ##  🛠 기술스택
 
@@ -28,7 +34,7 @@
 ### **[Tool & Environment]**  
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ idea-000000?style=for-the-badge&logo=IntelliJ idea&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
-## ERD
+## 💻 ERD
 
 
 
@@ -59,7 +65,6 @@
 <summary>회원(마이페이지)</summary>
   
 - 위시리스트 조회
-- 
   
 </details>
 
@@ -112,12 +117,9 @@
 
 
 
-## 🚀 참여자 :amolli(아몰리)
-|<img src="#" width="120" height="160"/><br/>BE 오승언 (팀장) <br/><a href="#">GitHub</a>|<img src="#" width="120" height="160"/><br/>BE 강정환 <br/> <a href="#">GitHub</a>|<img src="#" width="120" height="160"/><br/>BE 김나영 <br/><a href="#">GitHub</a>|<img src="#" width="120" height="160"/><br/>BE 김윤설 <br/><a href="#">GitHub</a>|<img src="#" width="120" height="160"/><br/>BE 박형배 <br/><a href="#">GitHub</a>|
-|:---:|:---:|:---:|:---:|:---:|
-| <strong>주요 역할</strong> <br> &middot; 전체 프로젝트 관리 <br> &middot; 회원 및 결제 파트 <br> &middot; 프론트 디자인|<strong>주요 역할</strong> <br> &middot; 상품 파트 | <strong>주요 역할</strong> <br> &middot; 상품리뷰 및 위시리스트 파트 <br/> &middot; 프론트 디자인 | <strong>주요 역할</strong> <br/> &middot; 주문 파트 | <strong>주요 역할</strong> <br/> &middot; 장바구니 파트 |
+
 
 
 ## 💊 트러블 슈팅
 
-## 프로젝트 회고
+## 💫 프로젝트 회고
