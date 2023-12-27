@@ -1,41 +1,81 @@
-#  🍳Overview
+# **👗oyeongshop.ver2 (오영샵)**
+- 심플하고 직관적으로 상품을 보고 구매 할 수 있도록 설계한 여성의류 쇼핑몰입니다.
+- 개발 기간 : 23.10.23 ~ 23.11.27<br>
+- 참여 인원 : 5명<br>
 
-> 💚oyeongshop.ver2💚 여성의류 쇼핑몰
+
+#  🛠 기술스택
+
+### **[Front-end]**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-#  🚩Project
+### **[Back-end]**   
+![Java](https://img.shields.io/badge/java11-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
-### SKILL
-**[Front-end]**  
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+### **[DB]**
+![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white)
 
-**[Back-end]**   
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-<img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> <img src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-
-**[Tool & Environment]**  
+### **[Tool & Environment]**  
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ idea-000000?style=for-the-badge&logo=IntelliJ idea&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
-### ERD
+# ERD
 
 
-### WIRE FRAME
+
+# 📍 주요 기능
+### 유저(회원) 권한
+
+<details>
+<summary>회원</summary>
+  
+- 사이트를 통한 회원 가입 및 로그인
+- 소셜 로그인(카카오, 네이버, 구글) 인증 후 로그인
+- 아이디 중복 체크
+  
+</details>
+
+<details>
+<summary>상품</summary>
+  
+- 카테고리별 상품 조회
+- 상품 목록조회
+- 상품 정보 상세보기
+  
+</details>
+
+<details>
+<summary>주문/결제</summary>
+  
+- 단일상품 주문
+- 다중 상품 주문
+- 결제(포트원 결제 api)
+- 주문 내역 조회
+
+</details>
+
+
+### 관리자 권한
+<details>
+<summary>상품</summary>
+  
+- 상품 등록
+- 상품 상세 내용 수정
+  
+</details>
 
 
 
 ### 기능 영상 
-
-
-
-## 📍 주요 기능
-### 유저(회원) 권한
-
-
-
-
-### 관리자 권한
-
 
 
 
@@ -48,4 +88,4 @@
 
 ## 💊 트러블 슈팅
 
-#### 삽입 SQL 문
+# 프로젝트 회고
