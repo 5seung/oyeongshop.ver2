@@ -1,6 +1,6 @@
 ## **👗oyeongshop.ver2 (오영샵)**
 - 심플하고 직관적으로 상품을 보고 구매 할 수 있도록 설계한 여성의류 쇼핑몰 프로젝트입니다.
-- <a href="#>oyeongshop.ver1</a>에서 구현하지 못한 기능을 추가하였습니다.
+- [oyeongshop.ver1](https://github.com/5seung/OyeongShop) 에서 구현하지 못한 쇼핑몰의 핵심 기능을 추가하였습니다.
 - 개발 기간 : 23.10.23 ~ 23.11.27<br>
 - 참여 인원 : 5명 (amolli: 아몰리)<br>
       
