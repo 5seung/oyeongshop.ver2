@@ -4,9 +4,9 @@
 - 개발 기간 : 23.10.23 ~ 23.11.27<br>
 - 참여 인원 : 5명 (amolli: 아몰리)<br>
       
-    |<img src="#" width="140" height="160"/><br/>BE 오승언 (팀장) <br/><a href="#">GitHub</a>|<img src="#" width="140" height="160"/><br/>BE 강정환 <br/> <a href="#">GitHub</a>|<img src="#" width="140" height="160"/><br/>BE 김나영 <br/><a href="#">GitHub</a>|<img src="#" width="140" height="160"/><br/>BE 김윤설 <br/><a href="#">GitHub</a>|<img src="#" width="140" height="160"/><br/>BE 박형배 <br/><a href="#">GitHub</a>|
+    |<img src="https://avatars.githubusercontent.com/u/126163816?s=400&v=4" width="120" height="160"/><br/>BE 오승언 (팀장) <br/><a href="#">GitHub</a>|<img src="#" width="120" height="160"/><br/>BE 강정환 <br/> <a href="#">GitHub</a>|<img src="https://avatars.githubusercontent.com/u/144882233?v=4" width="120" height="160"/><br/>BE 김나영 <br/><a href="#">GitHub</a>|<img src="https://avatars.githubusercontent.com/u/140488622?v=4" width="120" height="160"/><br/>BE 김윤설 <br/><a href="#">GitHub</a>|<img src="#" width="120" height="160"/><br/>BE 박형배 <br/><a href="#">GitHub</a>|
     |:---:|:---:|:---:|:---:|:---:|
-    | <strong>주요 역할</strong> <br> &middot; 전체 프로젝트 관리 <br> &middot; 회원 및 결제 파트 <br> &middot; 프론트 디자인|<strong>주요 역할</strong> <br> &middot; 상품 파트 | <strong>주요 역할</strong> <br> &middot; 리뷰 및 위시리스트 파트 <br/> &middot; 프론트 디자인 | <strong>주요 역할</strong> <br/> &middot; 주문 파트 | <strong>주요 역할</strong> <br/> &middot; 장바구니 파트 |
+    | <strong>주요 역할</strong> <br> &middot; 프로젝트 총괄 <br> &middot; 회원 및 결제 파트 <br> &middot; 프론트 디자인|<strong>주요 역할</strong> <br> &middot; 상품 파트 | <strong>주요 역할</strong> <br> &middot; 리뷰 및 위시리스트 파트 <br/> &middot; 프론트 디자인 | <strong>주요 역할</strong> <br/> &middot; 주문 파트 | <strong>주요 역할</strong> <br/> &middot; 장바구니 파트 |
 
 <br>
 
@@ -40,7 +40,7 @@
 </br>
 
 ## 💻 ERD
-- [ERD 링크](https://www.erdcloud.com/d/De5eKLR9fHqGtaWEs)
+- [📌ERD 링크](https://www.erdcloud.com/d/De5eKLR9fHqGtaWEs)
 - Table 16
 
 ![image](https://github.com/sesac-amolli/oyeongshop.ver2/assets/126163816/5222cf19-d258-4b98-beb7-784673799052)
@@ -48,14 +48,17 @@
 </br>
 
 ## 📍 주요 기능
+### [기본]
+- 유저 및 관리자 권한 구분 [📌시큐리티 설정 code](https://github.com/5seung/oyeongshop.ver2/blob/68d0016f92a8536bd094f7035d3ab807f754a13b/src/main/java/com/amolli/oyeongshop/ver2/security/config/SecurityConfig.java#L33-L66)
+  
 ### [유저(회원) 권한]
 
 <details>
 <summary>회원가입 및 로그인</summary>
   
-- 사이트를 통한 회원 가입 및 로그인
-- 소셜 로그인(카카오, 네이버, 구글) 인증 후 로그인
-- 아이디 중복 체크
+- 사이트를 통한 회원 가입 및 로그인 [📌회원가입 서비스 code](https://github.com/5seung/oyeongshop.ver2/blob/68d0016f92a8536bd094f7035d3ab807f754a13b/src/main/java/com/amolli/oyeongshop/ver2/user/service/UserServiceImpl.java#L46-L56)
+- 소셜 로그인(카카오, 네이버, 구글) 인증 후 로그인 [📌서비스 code](https://github.com/5seung/oyeongshop.ver2/blob/68d0016f92a8536bd094f7035d3ab807f754a13b/src/main/java/com/amolli/oyeongshop/ver2/security/config/oauth/PrincipalOauth2UserService.java#L27-L83)
+- 아이디 중복 체크 [📌ajax code](https://github.com/5seung/oyeongshop.ver2/blob/68d0016f92a8536bd094f7035d3ab807f754a13b/src/main/resources/static/js/user/signup.js#L1-L28)
   
 </details>
 
@@ -86,7 +89,7 @@
 - 다중 상품 주문
   + 장바구니에서 선택한 상품 주문 진행 시
     
-- 결제(포트원 결제 api)
+- 결제 [📌포트원 결제 api 요청 code](https://github.com/5seung/oyeongshop.ver2/blob/68d0016f92a8536bd094f7035d3ab807f754a13b/src/main/resources/static/js/order/order.js#L143-L212)
 - 주문 내역 조회
 
 </details>
@@ -136,13 +139,22 @@
 </br>
 
 ## 💫 프로젝트 회고
+<details>
+<summary> 🌈 좋았던 점 </summary>
 
-### 🌈 좋았던 점
-- 
-- 
-### 🌧️ 아쉬웠던 점
-- 
-- 
+ - 팀장으로 프로젝트 진행률 관리와 의사소통의 어려움을 느꼈고, 이번 경험을 통해 좋은 의사소통이란 무엇일까 다시 한번 고민하였다.
+ - 스프링 시큐리티, 소셜로그인 api사용 등 기술적으로 학습한 부분을
+ - 여전히 jpa 개념이 부족한 부분이 많지만, 엔티티의 매핑관계를 이해하고 순환참조 문제를 해결했다는 부분에서 뿌듯했다. 특히 metahaus 프로젝트에서 사용 실패했던 경험이 있기때문에 더 뜻 깊었다. 
+
+</details>
+<details>
+<summary> 🌧️ 아쉬웠던 점 </summary>
+
+ - 소셜 로그인과 셋트로 등장하는 개념인 jwt를 이해하고 구현하고 싶었는데 프로젝트 관리의 어려움때문에 충분한 시간을 확보하지 못해 충분히 공부하지 못한것이 아쉽다.
+ - AWS 배포, 테스트 코드 작성, 익셉션관리 등 구현 이외의 백엔드 개발자로의 역량을 키워야한다고 생각한 부분을 성장시키지 못한것이 아쉽다.
+ - 회의록 및 프로젝트 이슈 관리가 효율적으로 관리되지 못해 무용지물이 되었다 느껴졌고, 꼭 개선이 필요한 부분이라 생각된다.
+
+</details>
 
 </br>
 
