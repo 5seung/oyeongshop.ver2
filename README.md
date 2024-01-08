@@ -40,7 +40,9 @@
 </br>
 
 ## 💻 ERD
+- [ERD 링크](https://www.erdcloud.com/d/De5eKLR9fHqGtaWEs)
 
+![image]()
 
 </br>
 
