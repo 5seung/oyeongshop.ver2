@@ -41,6 +41,7 @@
 
 ## 💻 ERD
 - [ERD 링크](https://www.erdcloud.com/d/De5eKLR9fHqGtaWEs)
+- Table 16
 
 ![image](https://github.com/sesac-amolli/oyeongshop.ver2/assets/126163816/5222cf19-d258-4b98-beb7-784673799052)
 
