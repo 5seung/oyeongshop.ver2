@@ -48,6 +48,8 @@
 </br>
 
 ## 📍 주요 기능
+** 담당기능에 작성 코드를 링크하였습니다.
+
 ### [기본]
 - 유저 및 관리자 권한 구분 [📌시큐리티 설정 code](https://github.com/5seung/oyeongshop.ver2/blob/68d0016f92a8536bd094f7035d3ab807f754a13b/src/main/java/com/amolli/oyeongshop/ver2/security/config/SecurityConfig.java#L33-L66)
   
@@ -132,9 +134,6 @@
 
 
 
-</br>
-
-## 💊 트러블 슈팅
 
 </br>
 
