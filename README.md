@@ -50,10 +50,10 @@
 ## 📍 주요 기능
 ** 담당기능에 작성 코드를 링크하였습니다.
 
-### [기본]
+### 기본
 - 유저 및 관리자 권한 구분 [📌시큐리티 설정 code](https://github.com/5seung/oyeongshop.ver2/blob/68d0016f92a8536bd094f7035d3ab807f754a13b/src/main/java/com/amolli/oyeongshop/ver2/security/config/SecurityConfig.java#L33-L66)
   
-### [유저(회원) 권한]
+### 유저(회원) 권한
 
 <details>
 <summary>회원가입 및 로그인</summary>
@@ -113,7 +113,7 @@
 </details>
 
 
-### [관리자 권한]
+### 관리자 권한
 <details>
 <summary>상품</summary>
   
@@ -126,11 +126,10 @@
 </details>
 
 
-
-### [기능 영상] 
-
+### 기능 데모 보기
 
 
+[📺영상 보러가기(사용 시나리오)📺](https://drive.google.com/drive/folders/1drUy5x3xpRw3aRBuF25Uy3SH0cDC2xQu)
 
 
 
