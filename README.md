@@ -133,6 +133,13 @@
 
 
 
+<br/>
+
+## 👀 참고 자료
+- [요구사항 명세서](https://drive.google.com/drive/folders/1drUy5x3xpRw3aRBuF25Uy3SH0cDC2xQu)
+- [화면설계: 와이어프레임](https://drive.google.com/drive/folders/1drUy5x3xpRw3aRBuF25Uy3SH0cDC2xQu)
+- [API](https://drive.google.com/drive/folders/1drUy5x3xpRw3aRBuF25Uy3SH0cDC2xQu)
+- [](#)
 
 </br>
 
