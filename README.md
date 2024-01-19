@@ -129,8 +129,7 @@
 ### 기능 데모 보기
 
 
-[📺영상 보러가기(사용 시나리오)📺](https://drive.google.com/drive/folders/1drUy5x3xpRw3aRBuF25Uy3SH0cDC2xQu)
-
+[📺영상 보러가기(사용 시나리오)📺](https://drive.google.com/file/d/14KWPkBUEHtn1dkOeODKUJ2nfTmbdnnED/view?usp=sharing)
 
 
 <br/>
