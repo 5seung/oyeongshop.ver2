@@ -135,9 +135,9 @@
 <br/>
 
 ## 👀 참고 자료
-- [요구사항 명세서](https://drive.google.com/drive/folders/1drUy5x3xpRw3aRBuF25Uy3SH0cDC2xQu)
-- [화면설계: 와이어프레임](https://drive.google.com/drive/folders/1drUy5x3xpRw3aRBuF25Uy3SH0cDC2xQu)
-- [API](https://drive.google.com/drive/folders/1drUy5x3xpRw3aRBuF25Uy3SH0cDC2xQu)
+- [요구사항 명세서](https://drive.google.com/file/d/1yt9Ddw-1aObxw8b4DjaD1FUTMYZ2ct31/view?usp=sharing)
+- [화면설계: 와이어프레임](https://drive.google.com/file/d/1hCTyrq6I6Q7SRFOVfC6C38hj2PioK9KB/view?usp=sharing)
+- [API](https://drive.google.com/file/d/1QB_JIDO2Hk0ahbx_0I-UhndB7Ue2DkPF/view?usp=sharing)
 - [발표자료](https://drive.google.com/file/d/14KWPkBUEHtn1dkOeODKUJ2nfTmbdnnED/view?usp=sharing)
 
 </br>
